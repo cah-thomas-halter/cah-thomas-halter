@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You've stumbled upon my work account. Not much I can show you here, unfortunately, unless you happen to work for Cardinal Health.
+You've stumbled upon my work GitHub account. Not much I can show you here, unfortunately, unless you happen to work for Cardinal Health.
 
 Perhaps you are looking for [@thalter](https://github.com/thalter), my personal GitHub account?
 
