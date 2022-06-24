@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You've stumbled upon my work account. Not much I can show you here, unfortunately, unless you happen to work for Cardinal Health.
+
+Perhaps you are looking for [@thalter](https://github.com/thalter), my personal GitHub account?
+
 <!--
 **cah-thomas-halter/cah-thomas-halter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
